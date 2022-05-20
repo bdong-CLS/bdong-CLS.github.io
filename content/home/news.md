@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20   # match this value with menus.yaml
 
-title: Recent News
+title: News & Media
 subtitle: ''
 
 content:
