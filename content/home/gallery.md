@@ -1,0 +1,22 @@
+---
+# An instance of the Blank widget with a Gallery page element.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+widget: blank
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 70
+
+title: Gallery
+subtitle: "Cities where I lived: <br> Chongqing (my beloved hometown) <br> Hong Kong <br> Singapore <br> Gainesville, FL <br> Philadelphia <br> Washington DC" 
+design:
+  columns: '2' 
+  
+  background: 
+    color: ""
+---
+
+{{< gallery album = "themes" >}}
+
